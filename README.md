@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 🔭 I'm currently working on web page designing<br>
 👯 I'm looking to collaborate on projects<br>
