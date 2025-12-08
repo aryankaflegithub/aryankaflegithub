@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I'm currently working on web page designing<br>
+🔭 I'm currently working on RL development<br>
 👯 I'm looking to collaborate on projects<br>
-🤔 I'm looking for help with machine designing<br>
+🤔 I'm looking for help with machine learning and designing<br>
 🌱 I'm currently learning c#<br>
 💬 Ask me about web development<br>
 ⚡ Fun fact I am in college
